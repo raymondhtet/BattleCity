@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleCity", "BattleCity\BattleCity.csproj", "{755C56E9-1C2F-4536-A474-AEA7107F5CF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseKeyboardLibrary", "MouseKeyboardLibrary\MouseKeyboardLibrary.csproj", "{BE99A41C-4B23-4B22-92FD-6CEC39AF56DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleCityDD", "BattleCityDD\BattleCityDD.csproj", "{CFD5B30C-2A8F-4582-8AD9-30FBBC6A4792}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microsoft.DirectX", "Microsoft.DirectX", "{106CA519-4641-4CE3-B200-0BE9D0C98419}"
+	ProjectSection(SolutionItems) = preProject
+		Microsoft.DirectX\Microsoft.DirectX.AudioVideoPlayback.dll = Microsoft.DirectX\Microsoft.DirectX.AudioVideoPlayback.dll
+		Microsoft.DirectX\Microsoft.DirectX.AudioVideoPlayback.xml = Microsoft.DirectX\Microsoft.DirectX.AudioVideoPlayback.xml
+		Microsoft.DirectX\Microsoft.DirectX.Diagnostics.dll = Microsoft.DirectX\Microsoft.DirectX.Diagnostics.dll
+		Microsoft.DirectX\Microsoft.DirectX.Diagnostics.xml = Microsoft.DirectX\Microsoft.DirectX.Diagnostics.xml
+		Microsoft.DirectX\Microsoft.DirectX.Direct3D.dll = Microsoft.DirectX\Microsoft.DirectX.Direct3D.dll
+		Microsoft.DirectX\Microsoft.DirectX.Direct3D.xml = Microsoft.DirectX\Microsoft.DirectX.Direct3D.xml
+		Microsoft.DirectX\Microsoft.DirectX.Direct3DX.dll = Microsoft.DirectX\Microsoft.DirectX.Direct3DX.dll
+		Microsoft.DirectX\Microsoft.DirectX.Direct3DX.xml = Microsoft.DirectX\Microsoft.DirectX.Direct3DX.xml
+		Microsoft.DirectX\Microsoft.DirectX.DirectDraw.dll = Microsoft.DirectX\Microsoft.DirectX.DirectDraw.dll
+		Microsoft.DirectX\Microsoft.DirectX.DirectDraw.xml = Microsoft.DirectX\Microsoft.DirectX.DirectDraw.xml
+		Microsoft.DirectX\Microsoft.DirectX.DirectInput.dll = Microsoft.DirectX\Microsoft.DirectX.DirectInput.dll
+		Microsoft.DirectX\Microsoft.DirectX.DirectInput.xml = Microsoft.DirectX\Microsoft.DirectX.DirectInput.xml
+		Microsoft.DirectX\Microsoft.DirectX.DirectPlay.dll = Microsoft.DirectX\Microsoft.DirectX.DirectPlay.dll
+		Microsoft.DirectX\Microsoft.DirectX.DirectPlay.xml = Microsoft.DirectX\Microsoft.DirectX.DirectPlay.xml
+		Microsoft.DirectX\Microsoft.DirectX.DirectSound.dll = Microsoft.DirectX\Microsoft.DirectX.DirectSound.dll
+		Microsoft.DirectX\Microsoft.DirectX.DirectSound.xml = Microsoft.DirectX\Microsoft.DirectX.DirectSound.xml
+		Microsoft.DirectX\Microsoft.DirectX.dll = Microsoft.DirectX\Microsoft.DirectX.dll
+		Microsoft.DirectX\Microsoft.DirectX.xml = Microsoft.DirectX\Microsoft.DirectX.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sounds", "sounds", "{2ECC8B23-B08B-4129-9BBD-EFB54307694D}"
+	ProjectSection(SolutionItems) = preProject
+		sounds\sound1.wav = sounds\sound1.wav
+		sounds\sound2.wav = sounds\sound2.wav
+		sounds\sound3.wav = sounds\sound3.wav
+		sounds\sound4.wav = sounds\sound4.wav
+		sounds\sound5.wav = sounds\sound5.wav
+		sounds\sound6.wav = sounds\sound6.wav
+		sounds\sound7.wav = sounds\sound7.wav
+		sounds\sound8.wav = sounds\sound8.wav
+		sounds\sound9.wav = sounds\sound9.wav
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Flash", "Flash", "{C64DFCCC-39B4-4322-B0CE-2C7F1C0B6D86}"
+	ProjectSection(SolutionItems) = preProject
+		Flash\ua.com.syo.battlecity.zip = Flash\ua.com.syo.battlecity.zip
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{755C56E9-1C2F-4536-A474-AEA7107F5CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{755C56E9-1C2F-4536-A474-AEA7107F5CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{755C56E9-1C2F-4536-A474-AEA7107F5CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{755C56E9-1C2F-4536-A474-AEA7107F5CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE99A41C-4B23-4B22-92FD-6CEC39AF56DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE99A41C-4B23-4B22-92FD-6CEC39AF56DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE99A41C-4B23-4B22-92FD-6CEC39AF56DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE99A41C-4B23-4B22-92FD-6CEC39AF56DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD5B30C-2A8F-4582-8AD9-30FBBC6A4792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD5B30C-2A8F-4582-8AD9-30FBBC6A4792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

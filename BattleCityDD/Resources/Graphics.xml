@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<GameGraphics>
+  <graphic key="BigExplosive" path="BattleCity.Resources.BigExplosive.bmp" embedded="true" frameWidth="64" frameHeight="64" transColor="ff00ff" />
+  <graphic key="Bonus" path="BattleCity.Resources.Bonus.bmp" embedded="true" frameWidth="32" frameHeight="32" transColor="ff00ff" />
+  <graphic key="Bullet" path="BattleCity.Resources.Bullet.bmp" embedded="true" frameWidth="16" frameHeight="16" transColor="ff00ff" />
+  <graphic key="Effect" path="BattleCity.Resources.Effect.bmp" embedded="true" frameWidth="32" frameHeight="32" transColor="ff00ff" />
+  <graphic key="Enemies" path="BattleCity.Resources.Enemies.bmp" embedded="true" frameWidth="32" frameHeight="32" transColor="ff00ff" />
+  <graphic key="GameOver" path="BattleCity.Resources.GameOver.bmp" embedded="true" frameWidth="64" frameHeight="32" transColor="ff00ff" />
+  <graphic key="HomeEagle" path="BattleCity.Resources.HomeEagle.bmp" embedded="true" frameWidth="32" frameHeight="32" transColor="ff00ff" />
+  <graphic key="InfoIcons" path="BattleCity.Resources.InfoIcons.bmp" embedded="true" frameWidth="32" frameHeight="32" transColor="ff00ff" />
+  <graphic key="Loading" path="BattleCity.Resources.Loading.bmp" embedded="true" frameWidth="128" frameHeight="16" transColor="ff00ff" />
+  <graphic key="MapItems" path="BattleCity.Resources.MapItems.bmp" embedded="true" frameWidth="8" frameHeight="8" transColor="ff00ff" />
+  <graphic key="Players" path="BattleCity.Resources.Players.bmp" embedded="true" frameWidth="32" frameHeight="32" transColor="ff00ff" />
+  <graphic key="Title" path="BattleCity.Resources.Title.bmp" embedded="true" frameWidth="384" frameHeight="144" transColor="ff00ff" />
+</GameGraphics>
